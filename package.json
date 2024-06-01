@@ -1,0 +1,17 @@
+{
+  "name": "devcrazynews",
+  "version": "1.0.0",
+  "description": "DevCrazyNews é uma plataforma para desenvolvedores que oferece tutoriais, guias e recursos educativos para dominar novas tecnologias. Disponibiliza projetos colaborativos em open-source, um espaço para discussões e suporte, além de atualizações do Canal DevCrazy com conteúdos e insights dos vídeos e da jornada compartilhada no canal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "Pedro Magno",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
